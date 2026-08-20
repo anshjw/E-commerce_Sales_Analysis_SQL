@@ -28,7 +28,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📈 Visualization:**
 
-<img src="Images/6.3_customer_segementation.png" alt="Customer Segmentation" width="50%">
+<img src="0_Images/6.3_customer_segementation.png" alt="Customer Segmentation" width="50%">
 
 📊 **Key Findings:**
 - High-value segment (25% of customers) drives 66% of revenue ($135.4M)
@@ -51,11 +51,11 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 Customer Revenue by Cohort (Adjusted for time in market) - First Purchase Date 
 
-<img src="Images/5.2_customer_revenue_normalized.png" alt="Customer Revenue Normalized" width="50%">
+<img src="0_Images/5.2_customer_revenue_normalized.png" alt="Customer Revenue Normalized" width="50%">
 
 Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 
-<img src="Images/7.3_customer_churn_cohort_year.png" alt="Monthly Revenue & CustomerTrends" width="50%">  
+<img src="0_Images/7.3_customer_churn_cohort_year.png" alt="Monthly Revenue & CustomerTrends" width="50%">  
 
 📊 **Key Findings:**  
 - Customer revenue is declining, older cohorts (2016-2018) spent ~$2,800+, while 2024 cohort spending dropped to ~$1,970.  
