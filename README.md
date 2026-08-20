@@ -10,7 +10,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 ## Clean Up Data
 
-**🖥️ Query**: [0_create_view.sql](0_create_view.sql)
+**🖥️ Query**: [1_create_view.sql](1_create_view.sql)
 
 - Aggregated sales and customer data into revenue metrics
 - Calculated first purchase dates for cohort analysis
@@ -20,7 +20,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 ### 1. Customer Segmentation
 
-**🖥️ Query**: [1_customer_segmentation.sql](1_customer_segmentation.sql)
+**🖥️ Query**: [2_customer_segmentation.sql](2_customer_segmentation.sql)
 
 - Categorized customers based on total lifetime value (LTV)
 - Assigned customers to High, Mid, and Low-value segments
@@ -41,7 +41,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 - Low-Value (2% revenue): Design re-engagement campaigns and price-sensitive promotions to increase purchase frequency
 
 ### 2. Customer Revenue by Cohort
-**🖥️ Query**: [2_cohort_analysis.sql]()
+**🖥️ Query**: [3_cohort_analysis.sql](3_cohort_analysis.sql)
 
 - Tracked revenue and customer count per cohorts
 - Cohorts were grouped by year of first purchase
@@ -68,7 +68,7 @@ Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 - Investigate cohort differences by applying successful strategies from high-spending cohorts (2016-2018) to newer ones.
 
 ### 3. Customer Retention
-🖥️ Query: [3_retention_analysis.sql](3_retention_analysis.sql)
+🖥️ Query: [4_retention_analysis.sql](4_retention_analysis.sql)
 
 - Identified customers at risk of churning
 - Analyzed last purchase patterns
